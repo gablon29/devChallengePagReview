@@ -1,0 +1,36 @@
+.contentEstrella {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #fafaf9;
+  height: 100%;
+  width: 50%;
+}
+
+.estrella {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5c044;
+  border-radius: 50%;
+  margin: 0 0 0 30px;
+  width: 40px;
+  height: 40px;
+}
+.estrella p {
+  font-size: 30px;
+}
+
+.contentEstrella h1 {
+  font-style: italic;
+  font-weight: 600;
+  padding: 10px;
+  margin: 5px;
+}
+
+.text-second {
+  font-family: "Courier New", Courier, monospace;
+  width: 70%;
+  margin: 5px;
+  padding: 10px;
+}
