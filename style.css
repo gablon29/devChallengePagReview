@@ -23,14 +23,15 @@
 }
 
 .contentEstrella h1 {
-  font-style: italic;
-  font-weight: 600;
+  font-weight: bold;
   padding: 10px;
   margin: 5px;
 }
 
 .text-second {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Sora", sans-serif;
+  color: cadetblue;
+  font-weight: 500;
   width: 70%;
   margin: 5px;
   padding: 10px;
